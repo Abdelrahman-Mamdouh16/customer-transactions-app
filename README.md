@@ -1,3 +1,6 @@
+# To Get the run app you can find it hear (https://customer-transactions-app.vercel.app/)
+# the app and the server is all deployed in vercel  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
